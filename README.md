@@ -98,8 +98,8 @@ example, the next word `describe` is followed by the word `companyName`. Here
 the test is telling us that the tests that come afterwards will be about
 `companyName`. Then comes the word `it`, where you see the following:
 
-```js
-it('is set as Scuber', function () {
+ ```js
+it('is set as Scuber',nction () {
   // tests are here
 });
 ```
